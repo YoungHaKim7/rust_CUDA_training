@@ -19,3 +19,6 @@
 # Porting GPU shaders to Rust 30x faster with AI
 - June 24, 2025 · 15 min read | Christian Legnitto
   - [(250624)Rust GPU and Rust CUDA maintainer](https://rust-gpu.github.io/blog/2025/06/24/vulkan-shader-port/)
+
+# C++ examples for the Vulkan graphics API 
+  - https://github.com/Rust-GPU/VulkanShaderExamples
